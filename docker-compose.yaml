@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  xmrig-doge:
+    image: altsystems/xmrig-doge
+    container_name: xmrig-doge
+    restart: always
