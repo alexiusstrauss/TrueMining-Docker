@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  xmrig-doge:
+    image: altsystems/xmrig-qrl:latest
+    container_name: xmrig-qrl:latest
+    restart: always
