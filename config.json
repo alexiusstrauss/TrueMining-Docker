@@ -87,25 +87,27 @@
         //     "algo": "rx/0"
         // }         
         //   {
-        //     "url": "tabo.btc050.com:3333",
-        //     "user": "TaBobt5Gq6jLvKqgpCuFqcLnKUjUjaGrxhdvoRNZjHhFf2Jmoew6jQEaJUKcmjo14jh2RyMWikkHG4PUX1UmX8Xz8UrAGL8dXX",
-        //     "pass": "TaboMiner",
+        //     "algo": "rx/0",
+        //     "coin": null,
+        //     "url": "ca-qrl.miningocean.org:3333",
+        //     "user": "Q010500b64805ffb1d919ec4b5674babeb44317c803b100f935dbc5503ac29aa7742e92834fb7e2",
+        //     "pass": "QRLMinner",
         //     "keepalive": true,
         //     "nicehash": false,
-        //     "variant": "!msr",
-        //     "algo": "rx/0"
+        //     "daemon": false,
+        //     "socks5": null,
+        //     "self-select": null            
         // }                  
-          {
-            "algo": "rx/0",
-            "coin": null,
-            "url": "ca-qrl.miningocean.org:3333",
-            "user": "Q010500b64805ffb1d919ec4b5674babeb44317c803b100f935dbc5503ac29aa7742e92834fb7e2",
-            "pass": "QRLMinner",
+        {
+            "url": "tabo.btc050.com:3333",
+            "user": "TaBobt5Gq6jLvKqgpCuFqcLnKUjUjaGrxhdvoRNZjHhFf2Jmoew6jQEaJUKcmjo14jh2RyMWikkHG4PUX1UmX8Xz8UrAGL8dXX",
+            "pass": "TaboMiner",
             "keepalive": true,
             "nicehash": false,
+            "algo": "rx/0",
             "daemon": false,
             "socks5": null,
-            "self-select": null            
+            "self-select": null                        
         }                  
                   
 
