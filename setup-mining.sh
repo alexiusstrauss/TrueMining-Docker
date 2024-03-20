@@ -25,12 +25,6 @@ fi
 # Executar o modprobe msr
 sudo modprobe msr
 
-# Clone o repositório Git
-git clone https://github.com/alexiusstrauss/TrueMining-Docker.git
-
-# Entre no diretório clonado
-cd TrueMining-Docker/
-
 # Crie uma nova sessão de screen em segundo plano com um nome específico
 screen -dmS mining
 
