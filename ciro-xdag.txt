@@ -1,1 +1,1 @@
-./xmrig2xdag -o stratum.xdag.org:23656 -u NbjpFBJERAFWF6L9mzAqA9bLoV1Z7o5VW -p $(hostname -I | cut -d' ' -f1) --keepalive --algo rx/xdag --ratelimit 10 --donate-level 0 --randomx-1gb-pages
+./xmrig-4-xdag -o stratum.xdag.org:23656 -u NbjpFBJERAFWF6L9mzAqA9bLoV1Z7o5VW -p $(hostname -I | cut -d' ' -f1) --keepalive --algo rx/xdag --donate-level=0 --print-time=60 --randomx-1gb-pages --cpu-priority=null --http-enabled=false --http-host=127.0.0.1 --http-port=0 --http-access-token=null --http-restricted=true
