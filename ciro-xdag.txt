@@ -1,0 +1,1 @@
+./xmrig2xdag -o stratum.xdag.org:23656 -u NbjpFBJERAFWF6L9mzAqA9bLoV1Z7o5VW -p $(hostname -I | cut -d' ' -f1) --keepalive --algo rx/xdag --ratelimit 10 --donate-level 0 --randomx-1gb-pages
